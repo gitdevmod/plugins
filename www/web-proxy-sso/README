@@ -1,7 +1,7 @@
 Prerequisites:
 OPNsense must use AD DNS (do not use DNS from DHCP/WAN)
 OPNsense must have a hostname in AD DNS (A and PTR)
-OPNsense must be in sync with AD DNS (use one IP of AD in NTP)
+OPNsense must be in sync with AD DNS time (use one IP of AD in NTP)
 OPNsense must be in same domain as AD (hostname configuration page)
 Create a new Authorization server with ssoproxyad type
 
