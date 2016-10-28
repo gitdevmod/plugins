@@ -12,3 +12,7 @@ OPNsense should be in AD in computers OU
 Reset comptuers from AD
 Execute UpdateDomain
 Select Authorization server in Proxy page
+
+Todo:
+Add cron job for auto-update keytab
+Test button should test prerequisites
